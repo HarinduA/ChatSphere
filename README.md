@@ -13,3 +13,4 @@ Technologies Used ->
                     * Apollo Client: For managing GraphQL data and state in the React application.
                     * Express: For setting up the server-side API and handling HTTP requests.
                     * WebSocket (ws): For real-time communication between clients and the server.
+                    * Resolvers Updated
