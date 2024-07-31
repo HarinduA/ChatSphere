@@ -3,7 +3,7 @@ function NavBar({ user, onLogout }) {
     <nav className="navbar">
       <div className="navbar-brand">
         <p className="navbar-item is-size-5 has-text-weight-bold">
-        ChatSphere 
+          GraphQL Chat
         </p>
       </div>
       <div className="navbar-end">

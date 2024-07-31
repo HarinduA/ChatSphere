@@ -15,7 +15,7 @@ function Chat({ user }) {
     <section className="section">
       <div className="container">
         <h1 className="title is-4">
-          {`Step into ChatSphere, ${user} !`}
+          {`Chatting as ${user}`}
         </h1>
         <MessageList user={user} messages={messages} />
         <MessageInput onSend={handleSend} />
