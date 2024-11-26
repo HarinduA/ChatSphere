@@ -1,4 +1,4 @@
-#ChatSphere
+# ChatSphere
 
 Welcome to the ChatSphere! This application uses React, ApolloClient server, ApolloExpress, and WebSocket (ws) technologies to provide a real-time chat experience.
 The ChatSphere Web is a real-time messaging application designed to facilitate communication between users and a bot. It integrates various technologies to provide a seamless and interactive chat experience.
